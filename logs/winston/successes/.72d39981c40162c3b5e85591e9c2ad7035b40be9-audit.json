@@ -1,0 +1,95 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\.72d39981c40162c3b5e85591e9c2ad7035b40be9-audit.json",
+    "files": [
+        {
+            "date": 1703856781816,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\phu-2023-29-12-19-success.log",
+            "hash": "9e0685fec73333e63beca5476f42ceb456d27ac4f0965fdd150559c8330fcf75"
+        },
+        {
+            "date": 1703913978239,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\phu-2023-30-12-11-success.log",
+            "hash": "2f02f38cacd996aef1b2133d645462b08364d4550ca2eb5f6fa39626753f1f40"
+        },
+        {
+            "date": 1703963682678,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\phu-2023-31-12-01-success.log",
+            "hash": "a23d63ca444b71f9cc4e2ee87d26c811496073f1133cfcf28f4cb4106cf5247b"
+        },
+        {
+            "date": 1703983023529,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\phu-2023-31-12-06-success.log",
+            "hash": "775c854ca70acbf7ca8410045ec81bfa42ed27f71c180f22521cf746f17b72e0"
+        },
+        {
+            "date": 1703985297709,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\phu-2023-31-12-07-success.log",
+            "hash": "1c68572d8adaa16dbc02dc18dc7a1d1c1dbd93ab53c1c0ed5167a8fc15974352"
+        },
+        {
+            "date": 1704023986021,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\phu-2023-31-12-17-success.log",
+            "hash": "5ff6b79c9d5fe745c21fcf43a2898a870924dd0c4a777d973c1431bc8502d04c"
+        },
+        {
+            "date": 1704024029627,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\phu-2023-31-12-18-success.log",
+            "hash": "9e18b17587467a220cb874204bc88c85cc0e93b6817fe178fec7e1d3f6b2d77e"
+        },
+        {
+            "date": 1704041933773,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\phu-2023-31-12-22-success.log",
+            "hash": "b230fb00c370b79957a04dc4c3a8a629761fd4deec2752344f000b94823fe017"
+        },
+        {
+            "date": 1704117904799,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\phu-2024-01-01-20-success.log",
+            "hash": "a7dfe420f8bd02af6e0188a95a98c1a84a817f6b0e04e4ea6e0da73953cd52fe"
+        },
+        {
+            "date": 1704122554778,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\phu-2024-01-01-21-success.log",
+            "hash": "107bd98523a43dbc560fb319bdd7920cb5bedc2ee51006bc381c8866f2995bda"
+        },
+        {
+            "date": 1704162573410,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\phu-2024-02-01-08-success.log",
+            "hash": "270a5b1f7fabf83fb9d1c48ccf2baf3f6be7929e27cdacd7f6fe23b2a48e2110"
+        },
+        {
+            "date": 1704179417258,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\phu-2024-02-01-13-success.log",
+            "hash": "188aa8f97a22f3403a2cfe7e762142e19bb9187e38caa355d90a6cb0ba8b18e2"
+        },
+        {
+            "date": 1704191877684,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\phu-2024-02-01-16-success.log",
+            "hash": "65dd2f38dddc49d0a50ac794d404159f392e59dd6d760831290cad17bff52a7a"
+        },
+        {
+            "date": 1704193307626,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\phu-2024-02-01-17-success.log",
+            "hash": "5226f47802852909363189eef4579c1ffd709965712399e5562f215f0d568c19"
+        },
+        {
+            "date": 1704222340910,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\phu-2024-03-01-01-success.log",
+            "hash": "c952692cb60201f6a7a9090b0f1805cf851452a72b857b76f91a9e7d58f70862"
+        },
+        {
+            "date": 1704278756465,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\phu-2024-03-01-16-success.log",
+            "hash": "f17219eaa31cf895999638830b78c6fb13d293819d67515e80194298ab2530bc"
+        },
+        {
+            "date": 1704301610529,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\successes\\phu-2024-03-01-23-success.log",
+            "hash": "7c223511cd4f0f7106cc0c25d1127c2336c4cf6d77b8c2f3e5544df61c17eb28"
+        }
+    ],
+    "hashType": "sha256"
+}

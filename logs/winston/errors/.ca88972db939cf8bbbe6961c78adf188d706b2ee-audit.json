@@ -1,0 +1,95 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\.ca88972db939cf8bbbe6961c78adf188d706b2ee-audit.json",
+    "files": [
+        {
+            "date": 1703856781820,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\phu-2023-29-12-19-error.log",
+            "hash": "dfcce9ff56a7d552f7cbc9bcedd1a77746706e675d154042be16c8df539041a5"
+        },
+        {
+            "date": 1703913978278,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\phu-2023-30-12-11-error.log",
+            "hash": "c7e23da7ba237a16d75d151cbd0ad32de7d2ae1a63de258f788e8d6e3feec2b5"
+        },
+        {
+            "date": 1703963682704,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\phu-2023-31-12-01-error.log",
+            "hash": "6c65d40945b9d23d5100a9ab2227a870176baf4b8473b0d2268b0b13538fcef6"
+        },
+        {
+            "date": 1703983023546,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\phu-2023-31-12-06-error.log",
+            "hash": "418f47528c8071fb04fa1ce071021d28a42760c98af8db1fdd49bb32e616555e"
+        },
+        {
+            "date": 1703985297717,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\phu-2023-31-12-07-error.log",
+            "hash": "a8d0cf50d74c2921d82d13c570f0cc434f131538d88c4e4cf7111a6dac4372b9"
+        },
+        {
+            "date": 1704023986080,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\phu-2023-31-12-17-error.log",
+            "hash": "e4de291f6b3a24a3e5d579b7ef05f1ad29b5929a7f0ad4adb12bce6b326e9eb0"
+        },
+        {
+            "date": 1704024029630,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\phu-2023-31-12-18-error.log",
+            "hash": "66b209ddbc76c7e5421fed0f1ff325a3722454184f990b4dff8306e771859ae2"
+        },
+        {
+            "date": 1704041934107,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\phu-2023-31-12-22-error.log",
+            "hash": "0d512f14f2fd8ccd64eff1d0242f4e7e1f904fd4db9d2c2df3b05e4405e8023c"
+        },
+        {
+            "date": 1704117904832,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\phu-2024-01-01-20-error.log",
+            "hash": "cf9e85763e87a820b2d4c5253324e04c2ef4404e12ed9434763957d7ebc381d1"
+        },
+        {
+            "date": 1704122554797,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\phu-2024-01-01-21-error.log",
+            "hash": "c9a51c7a6a8008af2e44ad0f99d9c265323d6737bcfecc1069c21227f65efe0d"
+        },
+        {
+            "date": 1704162573434,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\phu-2024-02-01-08-error.log",
+            "hash": "af52b1e03995943c816042fdfb178e4bcd858baedb89b8fe256b3c034d3f68dc"
+        },
+        {
+            "date": 1704179417307,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\phu-2024-02-01-13-error.log",
+            "hash": "214af24a31188016c9eb3ad7c580f0085e40183b9aa494408462da6d12fa2630"
+        },
+        {
+            "date": 1704191877734,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\phu-2024-02-01-16-error.log",
+            "hash": "0928bbc0987ed5eebf1f6f5807d5aa784818abba4a7615996a5512a1035b943d"
+        },
+        {
+            "date": 1704193307674,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\phu-2024-02-01-17-error.log",
+            "hash": "1ff775c52a3812a990ef420335eb41d5eeeeb3482e5b018e4a25468e703c28a3"
+        },
+        {
+            "date": 1704222340965,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\phu-2024-03-01-01-error.log",
+            "hash": "2e9ca3a0b1220f9b4a14aaa8c558c106215c4df6829b62e29ba211b4ec58217a"
+        },
+        {
+            "date": 1704278756474,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\phu-2024-03-01-16-error.log",
+            "hash": "7036e8f63c17ab0640ba4d8902d8fa70a9bb0e4f98fa0faf90c33354b9804aba"
+        },
+        {
+            "date": 1704301610584,
+            "name": "F:\\jobTask\\userProduct\\logs\\winston\\errors\\phu-2024-03-01-23-error.log",
+            "hash": "88bfe314067dcc86c25200a4d6e80ff152650847491f96337ce734d8a79ed0f3"
+        }
+    ],
+    "hashType": "sha256"
+}
